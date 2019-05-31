@@ -67,5 +67,9 @@ class ViewController: UIViewController {
         }
         
     }
+    
+    func someFeature() {
+        // This is to test the git flow feature ability
+    }
 }
 
